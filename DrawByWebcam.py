@@ -150,16 +150,3 @@ while True:
 # Cleanup the camera and close any open windows
 camera.release()
 cv2.destroyAllWindows()
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
